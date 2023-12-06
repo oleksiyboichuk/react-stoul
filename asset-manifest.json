@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-stoul/static/css/main.c54054e7.css",
+    "main.js": "/react-stoul/static/js/main.2e6e9386.js",
+    "index.html": "/react-stoul/index.html",
+    "main.c54054e7.css.map": "/react-stoul/static/css/main.c54054e7.css.map",
+    "main.2e6e9386.js.map": "/react-stoul/static/js/main.2e6e9386.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c54054e7.css",
+    "static/js/main.2e6e9386.js"
+  ]
+}
